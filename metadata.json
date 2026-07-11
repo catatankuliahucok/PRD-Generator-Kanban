@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Software Blueprint Studio",
+  "description": "AI-driven software blueprinting tool to generate structured mindmaps, PRDs, and modular task lists for vibe coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
